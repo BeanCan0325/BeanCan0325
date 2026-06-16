@@ -19,11 +19,22 @@
 - I use AI as scaffolding, but keep the key decisions, trade-offs, and core implementation in my own hands.
 
 - I turn project questions into notes so I can explain what I built, not just say that it works.
+  
+  <sub>∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙</sub>
+### 📝engineering notes
 
-## things i am building
+[![Engineering Notes](https://img.shields.io/badge/Engineering%20Notes-D1D5DB?style=for-the-badge&logo=github&logoColor=111827&labelColor=E5E7EB)](https://github.com/BeanCan0325/engineering-notes)
 
+- 프로젝트를 구현하면서 생긴 기술적 판단과 문제 해결 과정을 기록합니다.
 
-## notes
+- I keep technical notes from real project work:
+implementation decisions, debugging paths, API/auth flow issues, and clean-code trade-offs.
 
-i keep development notes from real project questions here:
+  <sub>∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙</sub>
+### ⚒️things i am building
+ **BOUT**  
+   - 영수증 기반 기록/정리 서비스를 구현하며, 사용자 흐름과 데이터 구조를 중심으로 기능을 정리하고 있습니다. 
+  
+   - Building a receipt-based tracking service, focusing on user flow, data structure, and implementation decisions.
+  [![BOUT Organization](https://img.shields.io/badge/BOUT%20Organization-E5E7EB?style=for-the-badge&logo=github&logoColor=111827&labelColor=F3F4F6)](https://github.com/receipt-keeper)
 
