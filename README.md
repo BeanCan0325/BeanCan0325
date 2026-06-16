@@ -32,7 +32,7 @@ implementation decisions, debugging paths, API/auth flow issues, and clean-code 
 
   <sub>∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙</sub>
 ### ⚒️things i am building
- **BOUT**  
+   **BOUT**  
    - 영수증 기반 기록/정리 서비스를 구현하며, 사용자 흐름과 데이터 구조를 중심으로 기능을 정리하고 있습니다. 
   
    - Building a receipt-based tracking service, focusing on user flow, data structure, and implementation decisions.
