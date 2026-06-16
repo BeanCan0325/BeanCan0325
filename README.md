@@ -36,5 +36,6 @@ implementation decisions, debugging paths, API/auth flow issues, and clean-code 
    - 영수증 기반 기록/정리 서비스를 구현하며, 사용자 흐름과 데이터 구조를 중심으로 기능을 정리하고 있습니다. 
   
    - Building a receipt-based tracking service, focusing on user flow, data structure, and implementation decisions.
+     
   [![BOUT Organization](https://img.shields.io/badge/BOUT%20Organization-E5E7EB?style=for-the-badge&logo=github&logoColor=111827&labelColor=F3F4F6)](https://github.com/receipt-keeper)
 
