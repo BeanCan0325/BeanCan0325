@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=900&lines=Backend+Developer;Learning+by+Building;Why+Before+How" />
 </p>
 
-<p align="center">
-  <img src="./assets/profile-growth.png" width="360" alt="profile growth illustration" />
-</p>
+
 
 # So Jung Lee   
 
